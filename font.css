@@ -2,13 +2,13 @@
 font-family: "iranYekan";
 font-weight: 400;
 font-style: normal;
-src: url("/assets/fonts/Yekan.woff") format("woff");
+src: url("Yekan.woff") format("woff");
 }
 @font-face {
     font-family: "iranYekan";
     font-weight: 700;
     font-style: normal;
-    src: url("/assets/fonts/Yekan.woff") format("woff");
+    src: url("Yekan.woff") format("woff");
     }
 body{
     font-family: "iranYekan";
